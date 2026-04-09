@@ -1,4 +1,4 @@
 .vscode/settings.json
 .DS_Store
-www/localhost-key.pem
-www/localhost.pem
+src/localhost-key.pem
+src/localhost.pem
